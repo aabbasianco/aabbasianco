@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning etherium smart contract
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me : a.abbasian008@gmail.com
+- 📫 How to reach me : a.abbasianco@gmail.com
 <!--- - ⚡ Fun fact: ... --->
 
 <!---
